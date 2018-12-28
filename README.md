@@ -33,5 +33,6 @@ fill in the list of hosts that you want to establish the passwordless login with
 
 # How to run it
 
-Execution command 
+Execution command :
+
 ansible-playbook -i hosts ansible_ssh.yml
